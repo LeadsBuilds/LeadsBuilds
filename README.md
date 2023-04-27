@@ -5,7 +5,9 @@
 
 ![Logo](https://media3.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47ia2a0tdfwcpuc188apuwm1tudf3rln025sv0vz2k&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-Peace out ✌️... oh wait, my e-mail is important right? reach me on Discord tho: **Downluck#2912** (idk why I have multiple nicknames but it's easier to get organized. You can call me by any nickname I set on my profiles and I'll try my best to not get confused along with you🤯). 
+Peace out ✌️... oh wait, my e-mail is important right? reach me on Discord tho: **Downluck#2912** (idk why I have multiple nicknames but it's easier to get organized). 
+
+You can call me by any nickname I set on my profiles and I'll try my best to not get confused along with you🤯. 
 
 Peace! ✌️✌️
 
