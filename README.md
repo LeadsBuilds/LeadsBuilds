@@ -4,9 +4,7 @@
 
 ![Logo](https://media1.giphy.com/media/hVEBWRInEvNOEVS18i/giphy.gif?cid=ecf05e470skz4l20ao2wkiodpr9s70g489aotr4o3x1tmtxb&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 
-See you✨✨... oh wait, my contact info is important right? you can reach me on Discord ;) **leadsbuilds** 
-
-Peace! ✌️✌️
+The world can be a better place if passionate people gather to make it what it's supposed to be.
 
 <!---
 LeadsBuilds/LeadsBuilds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
