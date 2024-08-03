@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
             ns: ['translation'],
             defaultNS: 'translation',
             backend: {
-                loadPath: '/locales/{{lng}}/{{ns}}.json' // Path to your translation JSON files
+                loadPath: 'LeadsBuilds/locales/{{lng}}/{{ns}}.json' // Path to your translation JSON files
             }
         }, function(err, t) {
             if (err) {
