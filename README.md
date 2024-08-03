@@ -6,7 +6,7 @@
 
 The world can be a better place if passionate people gather to make it what it's supposed to be.
 
-**Learn more:** [leadsbuilds.github.io - Public Repositories](leadsbuilds.github.io/LeadsBuilds/)
+**Learn more:** [leadsbuilds.github.io - Public Repositories](https://leadsbuilds.github.io/LeadsBuilds/)
 
 <!---
 LeadsBuilds/LeadsBuilds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
