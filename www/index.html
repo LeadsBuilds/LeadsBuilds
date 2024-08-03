@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LeadsBuilds.dev</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="i18next.min.js"></script>
+    <script src="i18nextHttpBackend.min.js"></script>
+</head>
+<body>
+    <header id="header">
+        <h1 data-i18n="header.title">LeadsBuilds</h1>
+        <h6 style="font-size: 11px; margin-top: -20px;">AKA <i>Wendell</i></h6>
+        <div class="language-selector">
+            <select id="language-select">
+                <option value="en">English</option>
+                <option value="pt">Português do Brasil</option>
+                <option value="es">Español</option>
+                <option value="fr">Français</option>
+                <option value="ru">Русский</option>
+                <option value="de">Deutsch</option>
+                <option value="ar">العربية</option>
+                <option value="jp">日本語</option>
+                <option value="zh">中文 - 简体</option>
+            </select>
+        </div>
+    </header>
+    <main>
+    <div id="slider">
+        <div 
+        class="slide" 
+        data-i18n="slider.slide1"
+        style="background-image: url('assets/images/slide1.jpg');"
+        >Slide</div>
+
+        <div 
+        class="slide"
+        data-i18n="slider.slide2"
+        style="background-image: url('assets/images/slide1.jpg');"
+        >Slide</div>
+
+        <div 
+        class="slide" 
+        data-i18n="slider.slide3"
+        style="background-image: url('assets/images/slide1.jpg');"
+        >Slide</div>
+    </div>
+        <div class="section-container" id="repo-container">
+            <!--Load repos dynamically-->
+        </div>
+    </main>
+    <footer id="footer">
+        <p data-i18n="footer.text">©2024 LeadsBuilds.dev</p>
+        <p><a href="https://github.com/LeadsBuilds" class="button" data-i18n="footer.github">GitHub</a></p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

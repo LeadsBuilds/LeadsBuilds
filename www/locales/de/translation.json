@@ -1,0 +1,17 @@
+{
+    "header": {
+        "title": "LeadsBuilds"
+    },
+    "slider": {
+        "slide1": "Arbeiten daran, die Welt zu einem besseren Ort zu machen 🤗",
+        "slide2": "Sehen Sie sich die Liste der öffentlichen Repositories unten an 😊👇",
+        "slide3": "Willkommen 👋"
+    },
+    "a": {
+        "button": "Repository anzeigen"
+    },
+    "footer": {
+        "text": "©2024 LeadsBuilds",
+        "github": "GitHub"
+    }
+}
